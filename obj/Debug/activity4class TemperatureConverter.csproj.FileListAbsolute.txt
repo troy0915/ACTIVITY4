@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\activity4class TemperatureConverter\bin\Debug\activity4class TemperatureConverter.exe.config
+C:\Users\HP\source\repos\activity4class TemperatureConverter\bin\Debug\activity4class TemperatureConverter.exe
+C:\Users\HP\source\repos\activity4class TemperatureConverter\bin\Debug\activity4class TemperatureConverter.pdb
+C:\Users\HP\source\repos\activity4class TemperatureConverter\obj\Debug\activity4class TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\activity4class TemperatureConverter\obj\Debug\activity4class TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\activity4class TemperatureConverter\obj\Debug\activity4class TemperatureConverter.exe
+C:\Users\HP\source\repos\activity4class TemperatureConverter\obj\Debug\activity4class TemperatureConverter.pdb
